@@ -16,6 +16,10 @@ Is it the same in the National League as the American League?
 
 
 ## Datasets to be used
-Baseball-Reference.com has team statistics by years that contain relevant information, except for Saray and wins
+Baseball-Reference.com has team statistics by years that contain relevant information, except for Sarlay and wins. They have a separate table for wins
 
 ## Rough breakdown of tasks
+Get data from website in csv format.
+Import and create data frames
+analyze Data
+viualize data
