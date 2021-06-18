@@ -1,24 +1,21 @@
 # Sports-Data-Analysis
 
 ## Project Title
-Baseball analysis - wins per dollar
+Baseball analysis - How specific statistics correlate with team wins
 
 ## Team Members
 Scott
 Trent
 
 ## Project description/outline
-We will analyze the WAR data and salary data to discover the players at each position that give the highest Wins above replacement per dollar.
+We will collect the data to get total team statistics for hitting, pitching and fielding, and then see if there are statistics that correlate with team wins. Between 20015 and 2019.
 
 ## Research questions to answer
-What group of players would give you the most wins per dollar.
-If you look at a team with those same players next year, would would be its expected wins and expected cost.
-Which position gives the most value?
-What positions contribute the most wins overall?
+What statistic has the biggest impact on wins, and how high is the correlation?
+Is it the same in the National League as the American League?
+
 
 ## Datasets to be used
-Baseball-Reference.com has WAR statistics and salary statistics
+Baseball-Reference.com has team statistics by years that contain relevant information, except for Saray and wins
 
 ## Rough breakdown of tasks
-Get player WAR (wins above replacement), position and salary data from each of the last 10 years.
-Analyze the data based on position.
