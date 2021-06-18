@@ -1,30 +1,30 @@
-﻿Arizona Diamondbacks,NL,west
-Atlanta Braves,NL,east
-Baltimore Orioles,AL,east
-Boston Red Sox,AL,east
-Chicago Cubs,NL,central
-Chicago White Sox,AL,central
-Cincinnati Reds,NL ,central 
-Cleveland Indians,AL,central
-Colorado Rockies,NL,west
-Detroit Tigers,AL,central
-Houston Astros,AL,west
-Kansas City Royals,AL,central
-Los Angeles Angels,AL,west
-Los Angeles Dodgers,NL,west
-Miami Marlins,NL,east
-Milwaukee Brewers,NL,central 
-Minnesota Twins,AL,central
-New York Mets,NL,east
-New York Yankees,AL,east
-Oakland Athletics,AL,west
-Philadelphia Phillies,NL,east
-Pittsburgh Pirates,NL,central 
-San Diego Padres,NL,west
-San Francisco Giants,NL,west
-Seattle Mariners,AL,west
-St. Louis Cardinals,NL,central 
-Tampa Bay Rays,AL,east
-Texas Rangers,AL,west
-Toronto Blue Jays,AL,east
-Washington Nationals,NL,east
+﻿Arizona Diamondbacks,ARZ,NL,west
+Atlanta Braves,ATL,NL,east
+Baltimore Orioles,BAL,AL,east
+Boston Red Sox,BOS,AL,east
+Chicago Cubs,CHC,NL,central
+Chicago White Sox,CHW,AL,central
+Cincinnati Reds,CIN,NL ,central 
+Cleveland Indians,CLE,AL,central
+Colorado Rockies,COL,NL,west
+Detroit Tigers,DET,AL,central
+Houston Astros,HOU,AL,west
+Kansas City Royals,KS,AL,central
+Los Angeles Angels,LAA,AL,west
+Los Angeles Dodgers,LAD,NL,west
+Miami Marlins,MIA,NL,east
+Milwaukee Brewers,MIL,NL,central 
+Minnesota Twins,MIN,AL,central
+New York Mets,NYM,NL,east
+New York Yankees,NYY,AL,east
+Oakland Athletics,OAK,AL,west
+Philadelphia Phillies,PHI,NL,east
+Pittsburgh Pirates,PIT,NL,central 
+San Diego Padres,SD,NL,west
+San Francisco Giants,SF,NL,west
+Seattle Mariners,SEA,AL,west
+St. Louis Cardinals,STL,NL,central 
+Tampa Bay Rays,TB,AL,east
+Texas Rangers,TEX,AL,west
+Toronto Blue Jays,TOR,AL,east
+Washington Nationals,WAS,NL,east
