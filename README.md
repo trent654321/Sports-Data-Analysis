@@ -1,33 +1,30 @@
 # Sports-Data-Analysis
-# Sports-Data-Analysis
 
 ## Project Title
-Baseball analysis - How specific statistics correlate with team wins
+Major League Baseball Homerun Analysis
 
 ## Team Members
 Scott
 Trent
 
-##Data Cleaning
--batting, pitching and fielding have 2 addiotnal rows at the end of the data set (average & cumulative)
--add 'year' column for each data set
--merge the years for 'batting, pitching and fielding'
--
+## Data Cleaning
+
+Download data sets for batting and season standings between 2010 and 2019 from https://www.baseball-reference.com/leagues/majors.shtml
 
 ## Project description/outline
-We will collect the data to get total team statistics for hitting, pitching and fielding, and then see if there are statistics that correlate with team wins. Between 20015 and 2019.
+Analyize the MLB batting statistics and determine how homeruns correlate with winning percentage between 2010 and 2019.
 
 ## Research questions to answer
-What statistic has the biggest impact on wins, and how high is the correlation?
-Is it the same in the National League as the American League?
-Does spending influence the win percentage?
+Do homeruns have a consistent correlation coefficient to winning percentage?
+What contributes the most to homeruns being hit?
+Do altitude and weather influence the amount/frequency of homeruns?
 
 ##alternate ideas
---Homerun heatmap using the stadium coordinates
+--Homerun heatmap using the stadium coordinates, altitude, average temperature and average homeruns. 
 
 
 ## Datasets to be used
-Baseball-Reference.com has team statistics by years that contain relevant information, except for Sarlay and wins. They have a separate table for wins
+https://www.baseball-reference.com/leagues/majors.shtml has team statistics by years that contain relevant information, except for Sarlay and wins. They have a separate table for wins
 
 ## Rough breakdown of tasks
 Get data from website in csv format.
