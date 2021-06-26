@@ -7,6 +7,12 @@ Major League Baseball Homerun Analysis
 Scott
 Trent
 
+##Layout of git
+Final project is in the main Branch.
+Code is in 'baseball_analysis.ipnb'
+Presentation is in 'Major League Baseball - project.pptx'
+In the resources folder, there are the .csv files with the data, and the .png files with the outputs of the visualizations
+
 ## Data Cleaning
 
 Download data sets for batting and season standings between 2010 and 2019 from https://www.baseball-reference.com/leagues/majors.shtml
@@ -37,7 +43,7 @@ Import and create data frames.
 Trent
 Analyze Data
 Trent
-Prepare presentation using visualtizations an analysis
+Prepare presentation using visualizations an analysis
 Scott
 
 ##Further analysis
