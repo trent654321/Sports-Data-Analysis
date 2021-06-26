@@ -7,7 +7,7 @@ Major League Baseball Homerun Analysis
 Scott
 Trent
 
-##Layout of git
+## Layout of git
 Final project is in the main Branch.
 Code is in 'baseball_analysis.ipnb'
 Presentation is in 'Major League Baseball - project.pptx'
@@ -46,7 +46,7 @@ Trent
 Prepare presentation using visualizations an analysis
 Scott
 
-##Further analysis
+## Further analysis
 Get data about the innings in which the home runs were hit
 Get data on the stadiums in which the home runs were hit
 Number of solo, 2 run, 3 run and grand slam home runs
